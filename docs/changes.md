@@ -1,4 +1,4 @@
-# Magisk Changelog
+Superusuario# Magisk Changelog
 
 ### v25.2
 
